@@ -1,4 +1,4 @@
-#Matlab code of the Kapela et al. model of rat mesenteric smooth muscle cell (Journal of Theoretical Biology
+Matlab code of the Kapela et al. model of rat mesenteric smooth muscle cell (Journal of Theoretical Biology
 253 (2008) 238– 260) and Morotti et al. code for linear regression analysis of populations of models.
 
 ________________________________________________________________________________________________________________
@@ -30,11 +30,10 @@ SA_ICs_matrix_1000_s0p1.mat	matrix with ICs for each element of the population
 ________________________________________________________________________________________________________________
 
 
-Reference:
-
+References:
 S. Morotti, M. Nieves-Cintrón, M.A. Nystoriak, M.F. Navedo, E. Grandi.
 Predominant contribution of L-type CaV1.2 channel stimulation to impaired intracellular calcium and cerebral
 artery vasoconstriction in diabetic hyperglycemia.
-Channels. 2017. doi: 10.1080/19336950.2017.1293220.
+Channels (Austin). 2017 Jul 4;11(4):340-346. doi: https://doi.org/10.1080/19336950.2017.1293220
 
 Please, cite the above paper when using these codes.

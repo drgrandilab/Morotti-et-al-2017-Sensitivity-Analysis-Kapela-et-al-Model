@@ -1,5 +1,11 @@
-Matlab code of the Kapela et al. model of rat mesenteric smooth muscle cell (Journal of Theoretical Biology
-253 (2008) 238– 260) and Morotti et al. code for linear regression analysis of populations of models.
+Morotti et al. code for linear regression analysis of populations of electrophysiological models.
+
+This package contains the Matlab code used to perform sensitivity analysis on a population of electrophysiological
+models with the method of linear logistic regression.
+Here, the Kapela et al. model of rat mesenteric smooth muscle cell (Journal of Theoretical Biology 253 (2008)
+238– 260) is used to create a family of 1000 model variants by perturbing model parameters, and to investigate
+how model parameters influence membrane potential and calcium concentration.
+
 
 ________________________________________________________________________________________________________________
 Contents:
@@ -30,7 +36,7 @@ SA_ICs_matrix_1000_s0p1.mat	matrix with ICs for each element of the population
 ________________________________________________________________________________________________________________
 
 
-References:
+Reference:
 S. Morotti, M. Nieves-Cintrón, M.A. Nystoriak, M.F. Navedo, E. Grandi.
 Predominant contribution of L-type CaV1.2 channel stimulation to impaired intracellular calcium and cerebral
 artery vasoconstriction in diabetic hyperglycemia.
